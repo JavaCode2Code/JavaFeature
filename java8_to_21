@@ -1,3 +1,13 @@
-After java8 java added serveral important improvementss, java9 introduced the module system, java10 introduced local variable tyep referenc using 'var'.
-  java 11 was an LTS releases and added API's such as standarization http client and using String amd file methods later release introduced switch expression,text blocks record
-  and pattern matching. java 17 another LTS release finalized sealed classes and java 21 introduced major modern feature such as virtual threads sequenced collections
+After java8 java added serveral important improvementss, 
+
+java9 introduced the module system, 
+
+java10 introduced local variable tyep referenc using 'var'.
+
+java 11 was an LTS releases and added API's such as standarization http client
+
+and using String amd file methods later release introduced switch expression,text blocks record
+
+and pattern matching. java 17 another LTS release finalized sealed classes
+
+and java 21 introduced major modern feature such as virtual threads sequenced collections
