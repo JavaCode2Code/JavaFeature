@@ -1,13 +1,19 @@
-After java8 java added serveral important improvementss, 
+After Java 8, Java added several important improvements.
 
-java9 introduced the module system, 
+Java 9 — Module system (JPMS):
+The Java Platform Module System (JPMS) introduces modules (module-info.java) for strong encapsulation and explicit dependencies, improving modularity and allowing custom runtime images.
 
-java10 introduced local variable tyep referenc using 'var'.
+Java 10 — Local-variable type inference (var):
+Local variables can use `var` and let the compiler infer the type, reducing verbosity for local declarations.
 
-java 11 was an LTS releases and added API's such as standarization http client
+Java 11 — LTS and standard HTTP client:
+Java 11 is an LTS release and standardized the java.net.http.HttpClient (supporting HTTP/1.1 and HTTP/2, synchronous and asynchronous usage). It also added convenient String and Files APIs (e.g., String.isBlank(), String.lines(), Files.readString(), Files.writeString()).
 
-and using String amd file methods later release introduced switch expression,text blocks record
+Later releases — Switch expressions, text blocks, records, and pattern matching:
+Newer Java releases introduced switch expressions (switch as an expression with -> labels), text blocks (multiline string literals), records (concise immutable data carriers), and pattern matching for cleaner type tests and extraction.
 
-and pattern matching. java 17 another LTS release finalized sealed classes
+Java 17 — LTS and sealed classes:
+Java 17 is another LTS release and finalized sealed classes, which restrict which classes or interfaces may extend or implement a sealed type.
 
-and java 21 introduced major modern feature such as virtual threads sequenced collections
+Java 21 — Virtual threads and sequenced collections:
+Java 21 introduced virtual threads (lightweight threads for massive concurrency, Project Loom) and sequenced collection interfaces (unified APIs for collections with a defined sequence, e.g., head/tail operations).
