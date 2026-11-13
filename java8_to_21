@@ -1,5 +1,6 @@
 After Java 8, Java added several important improvements.
 
+
 Java 9 — Module system (JPMS):
 The Java Platform Module System (JPMS) introduces modules (module-info.java) for strong encapsulation and explicit dependencies, improving modularity and allowing custom runtime images.
 
